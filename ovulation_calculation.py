@@ -1,7 +1,7 @@
 import datetime
 
 
-temperature_list = (
+temperature_list_1 = (
     {'date': '2020-01-01', 'temperature': 36.7},
     {'date': '2020-01-02', 'temperature': 36.6},
     {'date': '2020-01-03', 'temperature': 36.6},
@@ -94,7 +94,7 @@ temperature_list_1 = (
     {'date': '2020-01-26', 'temperature': 37.2},
 )
 
-temperature_list = (
+temperature_list_1 = (
     {'date': '2020-01-01', 'temperature': 36.7},
     {'date': '2020-01-02', 'temperature': 36.6},
     {'date': '2020-01-03', 'temperature': 36.6},
